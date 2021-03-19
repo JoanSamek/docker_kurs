@@ -1,4 +1,4 @@
-FROM node:13.10
+FROM node:15.12.0-buster-slim
 
 # Create app directory
 WORKDIR /code
